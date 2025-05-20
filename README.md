@@ -2,7 +2,7 @@
 
 ## Grupo 6 da turma I2A2 - Lobonauta
 
-### Turma inicial: Agentes Inteligentes F01G04
+### Turma inicial: Agentes Inteligentes 
 
 ### Participantes
 
