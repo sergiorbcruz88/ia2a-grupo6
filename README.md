@@ -2,6 +2,10 @@
 
 ### Turma inicial: Agentes Inteligentes 
 
+
+A atividade obrigatória de 18/06/2025 foi criada no Google Colab e o notebook não permite visualização no Github. 
+
+
 ### Participantes
 
 | N° | Nome | LinkedIn | Email |
