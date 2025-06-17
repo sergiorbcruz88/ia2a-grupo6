@@ -1,6 +1,4 @@
-# ia2a-grupo6
-
-## Grupo 6 da turma I2A2 - Lobonauta
+## Grupo 6 - Lobonauta
 
 ### Turma inicial: Agentes Inteligentes 
 
